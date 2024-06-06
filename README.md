@@ -9,7 +9,7 @@ Data-driven parameter identification brings a new era of material computation th
 </p>
 <br/>
 <br/>
-<p><b>Machine Learning Technique</b></p>
+<p><b>Machine Learning Technique (Lasso Regression)</b></p>
 <p align="center">
   <img src="ML_LR_Method.jpg" title="hover text">
 </p>
